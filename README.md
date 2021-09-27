@@ -1,2 +1,0 @@
-# Arrays
-developed by madhumitha
